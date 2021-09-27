@@ -10,6 +10,6 @@ import java.util.List;
 @Setter
 @NoArgsConstructor
 public class OrderResponse {
-    private List<ProductResponse> productList;
+    private List<ProductResponse> product_list;
     private String accountType;
 }
